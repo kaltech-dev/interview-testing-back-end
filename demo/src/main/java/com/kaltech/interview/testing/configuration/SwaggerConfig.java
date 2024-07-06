@@ -1,4 +1,4 @@
-package com.kaltech.interviews.testing.demo.configuration;
+package com.kaltech.interview.testing.configuration;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

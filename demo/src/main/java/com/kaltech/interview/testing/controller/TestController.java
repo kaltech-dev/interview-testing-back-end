@@ -1,4 +1,4 @@
-package com.kaltech.interviews.testing.demo.controller;
+package com.kaltech.interview.testing.controller;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
